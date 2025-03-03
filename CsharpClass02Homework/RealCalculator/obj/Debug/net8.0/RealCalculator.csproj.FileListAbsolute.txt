@@ -1,0 +1,14 @@
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\obj\Debug\net8.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\obj\Debug\net8.0\RealCalculator.AssemblyInfoInputs.cache
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\obj\Debug\net8.0\RealCalculator.AssemblyInfo.cs
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\obj\Debug\net8.0\RealCalculator.csproj.CoreCompileInputs.cache
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\bin\Debug\net8.0\RealCalculator.exe
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\bin\Debug\net8.0\RealCalculator.deps.json
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\bin\Debug\net8.0\RealCalculator.runtimeconfig.json
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\bin\Debug\net8.0\RealCalculator.dll
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\bin\Debug\net8.0\RealCalculator.pdb
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\obj\Debug\net8.0\RealCalculator.dll
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\obj\Debug\net8.0\refint\RealCalculator.dll
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\obj\Debug\net8.0\RealCalculator.pdb
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\obj\Debug\net8.0\RealCalculator.genruntimeconfig.cache
+P:\QINSHIFT\Casovi\C#Basic\Class02\RealCalculator\obj\Debug\net8.0\ref\RealCalculator.dll

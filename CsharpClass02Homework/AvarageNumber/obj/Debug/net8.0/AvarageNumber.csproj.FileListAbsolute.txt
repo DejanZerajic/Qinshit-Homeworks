@@ -1,0 +1,14 @@
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\bin\Debug\net8.0\AvarageNumber.exe
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\bin\Debug\net8.0\AvarageNumber.deps.json
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\bin\Debug\net8.0\AvarageNumber.runtimeconfig.json
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\bin\Debug\net8.0\AvarageNumber.dll
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\bin\Debug\net8.0\AvarageNumber.pdb
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\obj\Debug\net8.0\AvarageNumber.GeneratedMSBuildEditorConfig.editorconfig
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\obj\Debug\net8.0\AvarageNumber.AssemblyInfoInputs.cache
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\obj\Debug\net8.0\AvarageNumber.AssemblyInfo.cs
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\obj\Debug\net8.0\AvarageNumber.csproj.CoreCompileInputs.cache
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\obj\Debug\net8.0\AvarageNumber.dll
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\obj\Debug\net8.0\refint\AvarageNumber.dll
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\obj\Debug\net8.0\AvarageNumber.pdb
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\obj\Debug\net8.0\AvarageNumber.genruntimeconfig.cache
+P:\QINSHIFT\Casovi\C#Basic\Class02\AvarageNumber\obj\Debug\net8.0\ref\AvarageNumber.dll

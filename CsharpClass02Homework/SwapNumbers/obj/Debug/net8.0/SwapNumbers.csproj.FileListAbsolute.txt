@@ -1,0 +1,14 @@
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfoInputs.cache
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfo.cs
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.csproj.CoreCompileInputs.cache
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.exe
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.deps.json
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.runtimeconfig.json
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.dll
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.pdb
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.dll
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\obj\Debug\net8.0\refint\SwapNumbers.dll
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.pdb
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.genruntimeconfig.cache
+P:\QINSHIFT\Casovi\C#Basic\Class02\SwapNumbers\obj\Debug\net8.0\ref\SwapNumbers.dll
