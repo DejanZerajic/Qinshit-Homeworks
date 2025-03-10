@@ -1,0 +1,14 @@
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\bin\Debug\net8.0\HomeworkClass03.exe
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\bin\Debug\net8.0\HomeworkClass03.deps.json
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\bin\Debug\net8.0\HomeworkClass03.runtimeconfig.json
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\bin\Debug\net8.0\HomeworkClass03.dll
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\bin\Debug\net8.0\HomeworkClass03.pdb
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\obj\Debug\net8.0\HomeworkClass03.GeneratedMSBuildEditorConfig.editorconfig
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\obj\Debug\net8.0\HomeworkClass03.AssemblyInfoInputs.cache
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\obj\Debug\net8.0\HomeworkClass03.AssemblyInfo.cs
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\obj\Debug\net8.0\HomeworkClass03.csproj.CoreCompileInputs.cache
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\obj\Debug\net8.0\HomeworkClass03.dll
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\obj\Debug\net8.0\refint\HomeworkClass03.dll
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\obj\Debug\net8.0\HomeworkClass03.pdb
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\obj\Debug\net8.0\HomeworkClass03.genruntimeconfig.cache
+P:\QINSHIFT\Casovi\C#Basic\Class03\Class03Homework\HomeworkClass03\HomeworkClass03\obj\Debug\net8.0\ref\HomeworkClass03.dll
